@@ -17,6 +17,12 @@
          "theme_author":"dirt | Berk Ozden",
          "theme_version":"0.69",
          "theme_dl_link":"N/A"
-      }
+      },
+      {
+         "theme_name":"Dummy Theme",
+         "theme_author":"DeadBread, I'm testing this shit",
+         "theme_version":"0.0",
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/dummy%20theme.py"
+      }  
    ]
 }
