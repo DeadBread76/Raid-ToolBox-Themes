@@ -4,31 +4,29 @@
          "theme_name":"DeadRed",
          "theme_author":"DeadBread",
          "theme_version":"1.2",
-         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-Toolbox/dev/themes/DeadRed.py"
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-Toolbox/dev/themes/DeadRed.py",
+         "rtb_compatible":"1.0.2"
       },
       {
          "theme_name":"Future Bloo",
          "theme_author":"Lucas",
          "theme_version":"1.1",
-         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-Toolbox/dev/themes/Future%20Bloo.py"
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-Toolbox/dev/themes/Future%20Bloo.py",
+         "rtb_compatible":"1.0.2"
       },
       {
          "theme_name":"Tiffy",
          "theme_author":"dirt | Berk Ozden",
          "theme_version":"0.69",
-         "theme_dl_link":"N/A"
-      },
-      {
-         "theme_name":"Dummy Theme",
-         "theme_author":"DeadBread, I'm testing this shit",
-         "theme_version":"0.0",
-         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/dummy%20theme.py"
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/Tiffy.py",
+         "rtb_compatible":"1.0.1r1"
       },
       {
          "theme_name":"Splatoon",
          "theme_author":"Mattlau04",
          "theme_version":"1.0",
-         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/Splatoon.py"
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/Splatoon.py",
+         "rtb_compatible":"1.0.1r1"
       }
    ]
 }
