@@ -23,6 +23,12 @@
          "theme_author":"DeadBread, I'm testing this shit",
          "theme_version":"0.0",
          "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/dummy%20theme.py"
-      }  
+      },
+      {
+         "theme_name":"Splatoon",
+         "theme_author":"Mattlau04",
+         "theme_version":"1.0",
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/Splatoon.py"
+      }
    ]
 }
