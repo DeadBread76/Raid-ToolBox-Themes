@@ -27,6 +27,13 @@
          "theme_version":"1.0",
          "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/Splatoon.py",
          "rtb_compatible":"1.0.1r1"
-      }
+      },
+      {
+         "theme_name":"gLiTcH",
+         "theme_author":"DeadBread",
+         "theme_version":"1.0",
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/gLiTcH.py",
+         "rtb_compatible":"1.0.2"
+      },
    ]
 }
