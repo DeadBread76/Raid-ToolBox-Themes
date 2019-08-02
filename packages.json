@@ -34,6 +34,13 @@
          "theme_version":"1.0",
          "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/gLiTcH.py",
          "rtb_compatible":"1.0.2"
+      },
+      {
+         "theme_name":"未来紫",
+         "theme_author":"DeadBread | BEININ",
+         "theme_version":"1.0",
+         "theme_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Themes/master/packages/%E6%9C%AA%E6%9D%A5%E7%B4%AB.py",
+         "rtb_compatible":"1.0.2"
       }
    ]
 }
